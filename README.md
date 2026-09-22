@@ -140,10 +140,10 @@ Your project is strong if you can answer "yes" to these questions:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/grc-portfolio-2026.git
+git clone https://github.com/designbyfaith/GRCProjects.git
 
 # Navigate to a project
-cd grc-portfolio-2026/01-pci-dss-network-segmentation
+cd GRCProjects/01-pci-dss-network-segmentation
 
 # Read the project README
 # Complete the exercises
