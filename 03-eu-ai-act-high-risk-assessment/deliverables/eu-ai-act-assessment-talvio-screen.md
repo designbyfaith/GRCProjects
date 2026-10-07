@@ -17,11 +17,11 @@
 
 ## 1. Executive Summary
 
-Talvio Screen ranks job applicants and automatically rejects those who score below 35. It is a high-risk AI system under the EU AI Act, because it is used to filter applications and evaluate candidates (Annex III, point 4(a)). HR has been piloting it at two warehouses since June 2026 without a legal review, and about 4,000 real candidates have already gone through it.
+Since June 2026, HR has used Talvio Screen on real job applicants at our Venlo and Tilburg warehouses, and about 4,000 candidates have gone through it. The pilot should not have started without a legal and risk review. The tool ranks applicants and automatically rejects anyone scoring below 35, which makes it a high-risk AI system under the EU AI Act (Annex III, point 4(a)).
 
-The pilot does not meet the rules as it runs today. Rejections are automatic, recruiters spend under a minute per candidate, candidates are not told AI is involved, and nobody has checked whether the tool disadvantages people because of where they live, gaps in their work history, or their language. The video add-on HR wants to switch on would read candidates' emotions, which the AI Act bans in recruitment.
+As it runs today, the pilot does not meet the rules. Talvio says recruiters make every decision, but for rejected candidates no recruiter ever sees the decision. Recruiters spend under a minute per candidate, candidates are not told AI is involved, and no one has checked whether postcode, work gaps, or language unfairly score people down. The video add-on HR wants to switch on would read candidates' emotions, which the AI Act bans in recruitment.
 
-The tool can be used, but only after specific changes. The Risk & Compliance team recommends approval with conditions: stop automatic rejections now, put real human review in place, test for bias, tell candidates and give them a way to ask for a review, and never enable the video add-on.
+The Risk & Compliance team recommends approval with conditions. Automatic rejections stop now, the video add-on is never enabled, and the tool goes no further than the pilot sites until real human review, bias testing, and a candidate review route are in place.
 
 **Recommendation:**
 - [ ] APPROVE for deployment
