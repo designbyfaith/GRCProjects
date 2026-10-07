@@ -319,7 +319,7 @@ This acceptance must be re-evaluated immediately if:
 - **Authority to accept.** Most-likely losses exceed $1M, with a worst case over $20M. The CFO's delegated authority may not cover a risk of this size. Executive approval is required (Section 10), and the Audit Committee should be notified.
 - **This document is discoverable.** After an incident, a signed acceptance of a known gap may be offered as evidence that the company knew and chose not to act. That is a reason for accuracy and follow-through, not a reason to avoid writing it down. Keep it under the records retention schedule, and do not edit it after signature except through versioned amendments.
 - **Privilege.** Legal analysis of liability exposure (the §1798.150 and contract analysis above) should be prepared at the direction of counsel and kept separate from this business document, to preserve attorney-client privilege and work-product protection where available.
-- **Meeting recordings.** California requires the consent of all parties to record confidential communications (Penal Code §632). It is standard practice here to record meetings like these on Microsoft Teams, so anyone who missed the meeting can catch up and so accurate notes can be kept. Everyone in the Appendix C meetings knew they were being recorded.
+- **Meeting recordings.** California requires the consent of all parties to record confidential communications (Penal Code §632). It is standard practice here to record meetings like these on Microsoft Teams, so anyone who missed the meeting can catch up and so accurate notes can be kept. Everyone in the Appendix C meetings knew they were being recorded and continued to take part, which is generally treated as consent.
 
 ---
 
