@@ -1,0 +1,10 @@
+# Decision Log: Project 03
+
+A running record of the judgment calls I made while building this project, and why.
+
+| Date | Decision | Alternatives Considered | Why I Chose This |
+|------|----------|-------------------------|------------------|
+| 2026-10-07 | Use an original, fictional scenario and assess it from the deployer's side | Use TalentMatch as written; assess from the provider's side | TalentMatch comes with sample answers, so an original case shows my own judgment. Most organizations will buy hiring AI, not build it, so the deployer's question ("should we use this?") is the one GRC teams actually face. It also brings in duties providers don't have: telling candidates, informing the works council, and running a DPIA. |
+| 2026-10-07 | Assess against the original 2 August 2026 date for high-risk obligations | Assume the proposed Digital Omnibus delay; leave the date open | A pilot already running on real candidates should be held to the stricter standard. If the delay is adopted, the conclusion still holds, because the Article 5 ban, AI literacy, and the GDPR apply either way. Planning for the later date and being wrong is the bigger risk. |
+| 2026-10-07 | Approve the core tool with conditions, but prohibit the video add-on | Approve everything with conditions; refuse the whole tool | The screening tool's problems can be fixed with process changes and vendor documentation, and the business benefit is real. Emotion recognition in recruitment is banned outright, so no condition can fix it. Treating the two the same would either block a fixable tool or excuse a banned one. |
+| 2026-10-07 | Carry out a fundamental rights assessment even though Article 27 does not require one | Skip it because a private employer is not in scope | The rights at stake (non-discrimination, the right to work, an effective remedy) are the core risk of this tool. The assessment also feeds the GDPR DPIA, and it gives a regulator clear evidence that we weighed the impact on candidates before deciding. |
